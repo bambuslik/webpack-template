@@ -1,4 +1,4 @@
-#Webpack template #1
+# Webpack template #1
 First stable template to build LP
 
 Технологии:
