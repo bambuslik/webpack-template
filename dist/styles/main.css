@@ -1,0 +1,31 @@
+.section {
+  margin: 0 auto;
+  max-width: 1160px;
+}
+
+.section-promo {
+}
+
+.container {
+  background: #f3f3f3;
+  padding: 10px;
+}
+
+.notification {
+  margin: 6px 0;
+  font-size: 19px;
+  color: #d2d0d0;
+}
+
+.notification_mode {
+  color: #1a1a1a;
+}
+
+.notification_css {
+  color: #219a3d;
+}
+.notification_less {
+  color: #219a3d;
+}
+
+.notification_sass{color:#219a3d}
